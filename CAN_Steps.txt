@@ -1,0 +1,20 @@
+1. Decide the architecture and devices
+2. Design the architecture usign CISCO's 3 layer technique
+3. Place the initial protoype with correct port's and wires
+4. Set Up the DS with Power Sources
+5. Connect all the wires
+5. Script all DS and AS with VLAN's script
+6. Set up Remote Access in Server Room using VLAN(for IP access) to use Telnet and ssh (Management VLAN)
+6. Set up VLAN in switches with IP addressess
+7. Configure telnet on all switches to acceess VLAN
+8. Enable Trunk for All switches (seperate for all Access layer {Level 3}) for individual Ports
+9. Use telnet with targetIp as host and password 123 to access the terminal
+10. Connect a master computer to server room with VLAN access and necessary switchport do all the necessary setup in Switch CLI
+11. Master Access Computer then can be used to access all devies, info, switches with telnet
+12. Connect all the PC's and assign respective IP's
+
+
+
+
+ 
+
