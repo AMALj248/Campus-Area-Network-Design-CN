@@ -1,2 +1,2 @@
 # Campus-Area-Network-Design-CN
-This was a campus network designed under 18CSC302J Lab
+This was a campus area network designed under 18CSC302J Lab
